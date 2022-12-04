@@ -1,0 +1,24 @@
+{
+  "name": "FreeHandler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Kyutsumy",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^0.4.0-dev.1648166871.cedd053",
+    "dotenv": "14.2.0",
+    "ansi-colors": "^4.1.1",
+    "discord.js": "14.6.0",
+    "glob": "^7.2.0",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.34",
+    "mongoose": "^6.1.7",
+    "ms": "2.1.3",
+    "table": "^6.8.0",
+    "discord-api-types": "^0.30.0"
+  }
+}
