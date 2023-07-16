@@ -1,2 +1,1 @@
-# FreeHandler
-Um Handler avançado para bots do discord.js v14
+<h1>Free Handler</h1>
